@@ -2,7 +2,7 @@
 
 ## Overview
 Since everyone is using github to update their project which leaves me with no choice.
-This is a simple practise project which intent to present the basic features and functionality of python crawler / angular.js
+This is a simple practise project which intend to present the basic features and functionality of python crawler / angular.js
 
 ##Getting Started 
 ###Meetings[![Stories in Ready](https://badge.waffle.io/francisz2/micro.png?label=ready&title=Ready)](https://waffle.io/francisz2/micro)
