@@ -3,9 +3,12 @@
 ## Overview
 Since everyone is using github to update their project which leaves me with no choice.
 This is a simple practise project which intend to present the basic features and functionality of python crawler / angular.js
+### Project Management
+*This project will follow the SCRUM*
+Each week, I will have a weekly report. And I will update the **To-do List** as well as [![Stories in Ready](https://badge.waffle.io/francisz2/angular_python_crawler.png?label=ready&title=Ready)](https://waffle.io/francisz2/angular_python_crawler) on daily basis.
 
-## Issues 
-###Meetings[![Stories in Ready](https://badge.waffle.io/francisz2/angular_python_crawler.png?label=ready&title=Ready)](https://waffle.io/francisz2/micro)
+## Getting Started  
+###Issues[![Stories in Ready](https://badge.waffle.io/francisz2/angular_python_crawler.png?label=ready&title=Ready)](https://waffle.io/francisz2/angular_python_crawler)
 
 * **Create simple website with angular input, few buttons, radio buttons, and view chart**
   
