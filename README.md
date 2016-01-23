@@ -4,7 +4,7 @@
 Since everyone is using github to update their project which leaves me with no choice.
 This is a simple practise project which intend to present the basic features and functionality of python crawler / angular.js
 
-##Getting Started 
+## Issues 
 ###Meetings[![Stories in Ready](https://badge.waffle.io/francisz2/angular_python_crawler.png?label=ready&title=Ready)](https://waffle.io/francisz2/micro)
 
 * **Create simple website with angular input, few buttons, radio buttons, and view chart**
@@ -14,7 +14,9 @@ This is a simple practise project which intend to present the basic features and
    
 ##To-do List 
 1. Release 0.1 – Jan 23: Create mockups
-    * Create mockups 
+    * ~~Create mockups~~ 
+    * ~~search pannel~~
+    * Database set-up & connection
 
 2. Release 0.2 – Jan 29: 
     * write python crawler
