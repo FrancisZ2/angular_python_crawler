@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/FrancisZ2/angular_python_crawler.png?label=ready&title=Ready)](https://waffle.io/FrancisZ2/angular_python_crawler)
 # angular_python_crawler
 
 ## Overview
