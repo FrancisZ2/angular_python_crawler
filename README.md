@@ -5,7 +5,7 @@ Since everyone is using github to update their project which leaves me with no c
 This is a simple practise project which intend to present the basic features and functionality of python crawler / angular.js
 
 ##Getting Started 
-###Meetings[![Stories in Ready](https://waffle.io/FrancisZ2/angular_python_crawler)](https://waffle.io/francisz2/micro)
+###Meetings[![Stories in Ready](https://badge.waffle.io/francisz2/angular_python_crawler.png?label=ready&title=Ready)](https://waffle.io/francisz2/micro)
 
 * **Create simple website with angular input, few buttons, radio buttons, and view chart**
   
